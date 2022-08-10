@@ -1,0 +1,4 @@
+github.com/AlexandreChamard/go-functor v1.0.0 h1:H7m99gQcr6cERCWWNyIaPU8GFzi03ZEyUtd6uywB6TQ=
+github.com/AlexandreChamard/go-functor v1.0.0/go.mod h1:W4yWwF6XvBygpvpVOeAftRCvQZQ38S9LRvG0kgJFfTo=
+github.com/AlexandreChamard/go-priorityqueue v1.0.0 h1:N0pZ20S1mProMALcEof0rGG+dgC44xnCb4EAcn7uqWo=
+github.com/AlexandreChamard/go-priorityqueue v1.0.0/go.mod h1:oUqe/TsRjHZ5q1+AlM0jd3DgU+WWGCt943bxHdZtOl4=
